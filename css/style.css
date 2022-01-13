@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box-img {
+    margin-top: 20px;
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+}
